@@ -21,19 +21,19 @@ Backward	KEYWORD2	Rasp car moves backward
 TurnLeft	KEYWORD2	Rasp car rotates to the left
 TurnRight	KEYWORD2	Rasp car rotates to the right
 
-Read		KEYWORD2	read the USB port
+Read	KEYWORD2	read the USB port
 Initialize	KEYWORD2	init the USB port
 
 #######################################
-#	Instances	(KEYWORD2)
+#	Instances	(KEYWORD3)
 #######################################
-UltraSonicSensor	KEYWORD2	ultrasonic library
+UltraSonicSensor	KEYWORD3	ultrasonic library
 
-MotorFan	KEYWORD2	motor fan library
+MotorFan	KEYWORD3	motor fan library
 
-RaspCar	KEYWORD2	Raspberry Pi Car library
+RaspCar	KEYWORD3	Raspberry Pi Car library
 
-USBPort	KEYWORD2	USB port read library
+USBPort	KEYWORD3	USB port read library
 
 #######################################
 #	Constants	(LITERAL1)
