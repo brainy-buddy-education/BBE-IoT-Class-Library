@@ -1,0 +1,40 @@
+#######################################
+# Syntax	Coloring Map Brainy Buddy Education LLC class library
+#######################################
+
+#######################################
+#	Datatypes	(KEYWORD1)
+#######################################
+
+#######################################
+#	Methods	and	Functions	(KEYWORD2)
+####################################### 
+AvgDistance	KEYWORD2	average distance 
+ReadDistanceOnce	KEYWORD2	send a ping signal and get distance after ping
+
+TurnOff	KEYWORD2	remove the drive force for the motor fan 
+RunClockWise	KEYWORD2	rotate the fan clock wise
+RunCounterClockWise	KEYWORD2	rotate the fan counter-clock wise
+
+Forward	KEYWORD2	Rasp car moves forward
+Backward	KEYWORD2	Rasp car moves backward
+TurnLeft	KEYWORD2	Rasp car rotates to the left
+TurnRight	KEYWORD2	Rasp car rotates to the right
+
+Read		KEYWORD2	read the USB port
+Initialize	KEYWORD2	init the USB port
+
+#######################################
+#	Instances	(KEYWORD2)
+#######################################
+UltraSonicSensor	KEYWORD2	ultrasonic library
+
+MotorFan	KEYWORD2	motor fan library
+
+RaspCar	KEYWORD2	Raspberry Pi Car library
+
+USBPort	KEYWORD2	USB port read library
+
+#######################################
+#	Constants	(LITERAL1)
+#######################################
